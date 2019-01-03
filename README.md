@@ -1,0 +1,1 @@
+# 33.menyalin-elemen-B-indeks-berurutan
